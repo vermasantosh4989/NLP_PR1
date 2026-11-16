@@ -1,4 +1,3 @@
-::: {align="center"}
 # ✈️ Airline Tweet Sentiment Analyzer
 
 ### Natural Language Processing \| Text Classification \| Machine Learning \| Streamlit
@@ -538,6 +537,5 @@ NLP Practical Report 1
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Airline Tweet Sentiment Analyzer \| NLP Project**
 :::
